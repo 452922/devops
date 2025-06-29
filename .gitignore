@@ -2,3 +2,8 @@
 /storage_account/.terraform
 /storage_account/.terraform.lock.hcl
 /Resource_group/.terraform.lock.hcl
+/Resource1_group/.terraform
+/storage_account1/.terraform
+/storage_account1/.terraform.lock.hcl
+/Resource_group/.terraform.lock.hcl
+
