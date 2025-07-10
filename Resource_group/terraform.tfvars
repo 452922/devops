@@ -23,4 +23,4 @@ rg-names = {
     name     = "shubhamsingh-rg"
     location = "West US"
   }
-}
+}git branch
