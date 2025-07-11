@@ -23,4 +23,8 @@ rg-names = {
     name     = "shubhamsingh-rg"
     location = "West US"
   }
+  rg6 = {
+    name     = "vivek rg"
+    location = "East US"
+  }
 }
