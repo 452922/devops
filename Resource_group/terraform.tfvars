@@ -20,7 +20,7 @@ rg-names = {
   }
 
   rg5 = {
-    name     = "shubhamsingh-rg"
+    name     = "rohit-rg"
     location = "West US"
   }
   rg6 = {
