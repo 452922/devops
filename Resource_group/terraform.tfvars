@@ -20,7 +20,20 @@ rg-names = {
   }
 
   rg5 = {
-    name     = "shubhamsingh-rg"
+    name     = "rohit-rg"
     location = "West US"
   }
-}git branch
+
+  rg5 = {
+    name     = "manoj-rg"
+    location = "West US"
+  }
+   rg6 = {
+    name     = "manoj-nipun"
+    location = "West US"
+  }
+   rg7 = {
+    name     = "manoj-sh"
+    location = "West US"
+  }
+}
