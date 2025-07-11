@@ -33,7 +33,16 @@ rg-names = {
     location = "West US"
   }
    rg7 = {
-    name     = "manoj-sh"
+    name     = "sh-sh"
+    location = "West US"
+  }
+  
+   rg8 = {
+    name     = "sharma-sh"
+    location = "West US"
+  }
+  rg9 = {
+    name     = "singh-sh"
     location = "West US"
   }
 }
