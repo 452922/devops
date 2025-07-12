@@ -37,16 +37,4 @@ rg-names = {
     location = "West US"
   }
   
-   rg8 = {
-    name     = "sharma-sh"
-    location = "West US"
-  }
-  rg9 = {
-    name     = "singh-sh"
-    location = "West US"
-  }
-   rg10 = {
-    name     = "india-sh"
-    location = "Central india"
-  }
 }
