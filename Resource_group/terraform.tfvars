@@ -49,4 +49,8 @@ rg-names = {
     name     = "india-sh"
     location = "Central india"
   }
+ rg11 = {
+    name     = "india-usa"
+    location = "Central india"
+  }
 }
